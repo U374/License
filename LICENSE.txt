@@ -1,4 +1,4 @@
-CustomRecipe Plugin License
+Plugin License
 Copyright (c) 2026 Utkarsh (nRealParadox)
 
 ---
